@@ -3,7 +3,7 @@ Here's an updated version of your README with Flask and Docker added to the Tech
 ---
 
 # 💫 About Me:
-🌱 I’m currently learning Java and MERN Stack.<br>💬 Ask me about anything.
+🌱 I’m currently learning Django.<br>💬 Ask me about anything.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subh_paul10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhpaul) 
