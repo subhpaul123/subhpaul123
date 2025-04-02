@@ -34,6 +34,12 @@ Here's an updated version of your README with Flask and Docker added to the Tech
 ## 📈 LeetCode:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/subhpaul10/)
 
+## 📈 Hackerrank:
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/subhojitpaul_pa1)
+
+## 📈 CodeChef:
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tiding_elk_83)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subhpaul123&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subhpaul123&theme=onedark&hide_border=false)<br/>
