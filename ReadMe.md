@@ -1,7 +1,3 @@
-Here's an updated version of your README with Flask and Docker added to the Tech Stack section:
-
----
-
 # 💫 About Me:
 🌱 I’m currently learning Django.<br>💬 Ask me about anything.
 
